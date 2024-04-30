@@ -22,7 +22,7 @@
 <!--Intro start-->
 - 📚 Estuadiando actualmente **DAM** y un curso de **Programacion de Videojuego con Unreal**
 
-- 🤓 Me uní recientemente a esta plataforma y trato de combinar el conocimiento que obtengo a través de estudios formales con el conocimiento autodidacta para ingresar al munndo profesional con el mayor conocimiento posible
+- 🤓 Me uní recientemente a esta plataforma y trato de combinar el conocimiento que obtengo a través de estudios formales con el conocimiento autodidacta para ingresar al mundo profesional con el mayor conocimiento posible
 
 - ☁️ Actualmente y sobre todo de cara a las vacaciones estoy aprendiendo como moverme por esta plataforma para tenerla muy interiorizada y buscando pequeños retos que se ajusten a mi nivel y me permitan aumentar mis conocimeinto para tener unos pilares solidos 
 
