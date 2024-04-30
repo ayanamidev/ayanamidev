@@ -26,7 +26,7 @@
 
 - ☁️ Actualmente y sobre todo de cara a las vacaciones estoy aprendiendo como moverme por esta plataforma para tenerla muy interiorizada y buscando pequeños retos que se ajusten a mi nivel y me permitan aumentar mis conocimeinto para tener unos pilares solidos 
 
-- 💻 Este README profile es parte de mi último exprimento para finalizar un curso de Git y GitHub que hice en mi tiempo libre donde adquieir unso concomiento basicos. Espero poder mejorar y contribuir más con el tiempo
+- 💻 Este README profile es parte de mi último exprimento para finalizar un curso de Git y GitHub que hice en mi tiempo libre donde adquirí unos concomiento básicos. Espero poder mejorar y contribuir más con el tiempo
 
 <!--Intro end-->
 
